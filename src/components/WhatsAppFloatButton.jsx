@@ -3,7 +3,7 @@ import { FaWhatsapp } from "react-icons/fa";
 
 export default function WhatsAppFloatingButton() {
   const phone = "917899214433"; // Your WhatsApp number without '+'
-  const defaultMessage = "Hi there! I'm interested in your car rental services.";
+  const defaultMessage = "Hi there! I'm interested in your services.";
 
   const [isMobileViewport, setIsMobileViewport] = useState(false);
 
